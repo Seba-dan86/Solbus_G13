@@ -23,6 +23,7 @@ public class JavaApplication92 {
         System.out.println(tres);
         System.out.println(cuatro);
         System.out.println(cinco);
+        Conexion.ConexionDB.getConexion();
      
     }
 
